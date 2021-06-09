@@ -113,18 +113,19 @@ h3 {
  @media only screen and (max-width:300px) {
  	 h1 {
  		
- 		padding-top: 220px;
+ 		padding-top: 170px;
  	}
  	nav a{
  		display: block;
  		padding: 5px;
+		font-size: 10px;
  		
  	}
  	h2 {
- 		padding-top: 50px;
+ 		padding-top: 20px;
  	}
  	h3 {
- 		padding-top: 50px;
+ 		padding-top: 20px;
  	}
  	
  	#container {
@@ -138,25 +139,26 @@ h3 {
  		margin-top: 5px;
  	}
  	ul {
- 		padding-top: 50px;
+ 		padding-top: 20px;
  	}
  	}
  
  @media only screen and (min-width:  300px) and (max-width:480px) {
  	 h1 {
  		
- 		padding-top: 220px;
+ 		padding-top: 170px;
  	}
  	nav a {
  		display: block;
  		padding: 10px;
+		font-size: 10px;
  		
  	}
  	h2 {
- 		padding-top: 50px;
+ 		padding-top: 20px;
 }
 h2 {
- 		padding-top: 50px;
+ 		padding-top: 20px;
  	}
 
 #container {
@@ -169,6 +171,6 @@ h2 {
  		margin-top: 5px;
  	}
  	ul {
- 		padding-top: 50px;
+ 		padding-top: 20px;
  	}
  }	
